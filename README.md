@@ -2,7 +2,7 @@
 
 > **Hyper-Fast Preflop GTO Compass — An agile decision utility for independent players to realize hand equity.**
 
-🌐 **Language / 语言切换**: [English (Default)](#-foldorraiseai--preflop-gto-compass-) | [中文版本 (#)](#-foldorraiseai--翻牌前-gto-极限算力罗盘-)
+🌐 **Language / 语言切换**: [English (Default)](#foldorraiseai--preflop-gto-compass-) | [中文版本](#foldorraiseai--翻牌前-gto-极限算力罗盘)
 
 [![GitHub license](https://img.shields.io/github/license/huangq-dev/fold-or-raise?style=flat-square&color=emerald)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huangq-dev/fold-or-raise?style=flat-square&color=cyan)](https://github.com/huangq-dev/fold-or-raise/stargazers)
@@ -31,7 +31,7 @@ This project follows an **Agile Evolution (MVP)** protocol. The current 1.0 (Pro
 
 ### Cyberpunk UI Aesthetics (Vue 3 Single File)
 *   **Zero-Compile Build**: Powered by Vue 3 (Global Prod) + Tailwind CSS runtime. No Webpack/Vite build overhead; instant page loads.
-*   **Matrix Dashboard**: A 13x13 grid rendering custom CSS neon glows, custom SVG background grids, and `JetBrains Mono`极客 fonts.
+*   **Matrix Dashboard**: A 13x13 grid rendering custom CSS neon glows, custom SVG background grids, and `JetBrains Mono` fonts.
 *   **Fluid Animations**: Custom cubic-ease dampening functions driving responsive count-up animations for hand equity.
 *   **Self-Contained i18n**: Pure JS path-parser enabling seamless, dependency-free toggling between English (EN) and Chinese (ZH).
 
@@ -61,11 +61,11 @@ This utility is strictly an **offline mathematical training and strategy validat
 ---
 ---
 
-# 🃏🚀 FoldOrRaise.ai — 翻牌前 GTO 极限算力罗盘
+# FoldOrRaise.ai — 翻牌前 GTO 极限算力罗盘
 
 > **帮助独立玩家变现手牌价值的翻牌前敏捷决策工具**
 
-🌐 **Language / 语言切换**: [English (顶部)](#foldorraiseai--preflop-gto-compass-) | [中文版本 (当前)](#-foldorraiseai--翻牌前-gto-极限算力罗盘-)
+🌐 **Language / 语言切换**: [English (Top)](#foldorraiseai--preflop-gto-compass-) | [中文版本 (Current)](#foldorraiseai--翻牌前-gto-极限算力罗盘)
 
 ---
 
