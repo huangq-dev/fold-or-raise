@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **Play Now**: [https://huangq-dev.github.io/fold-or-raise/](https://huangq-dev.github.io/fold-or-raise/)[cite: 2]
+🚀 **Play Now**: [https://huangq-dev.github.io/fold-or-raise/](https://huangq-dev.github.io/fold-or-raise/)
 *(100% Client-Side. No Servers. Zero Tracking. Provably Private. Perfect for PC & Mobile.)*
 
 ---
@@ -21,9 +21,9 @@
 
 This project follows an **Agile Evolution (MVP)** protocol. The current 1.0 (Proof of Concept) version is strictly scoped to a specific, hard-core Texas Hold'em scenario:
 
-*   **Stack Depth**: Calibrated for **10BB - 25BB** short-stack tournament scenarios where post-flop playability converges into a pure **Push or Fold** mathematical model[cite: 1].
-*   **Action Context**: Simulates an **Unopened Pot** where all prior positions have folded, forcing an opening decision on the current player[cite: 1].
-*   **Dimensional Multi-linking**: Supports dynamic matrix updates and equity value counting triggered by **3 Stack Levels** (10BB/15BB/25BB) and **3 Key Positions** (UTG, CO, BTN)[cite: 1].
+*   **Stack Depth**: Calibrated for **10BB - 25BB** short-stack tournament scenarios where post-flop playability converges into a pure **Push or Fold** mathematical model.
+*   **Action Context**: Simulates an **Unopened Pot** where all prior positions have folded, forcing an opening decision on the current player.
+*   **Dimensional Multi-linking**: Supports dynamic matrix updates and equity value counting triggered by **3 Stack Levels** (10BB/15BB/25BB) and **3 Key Positions** (UTG, CO, BTN).
 
 ---
 
