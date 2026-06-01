@@ -12,7 +12,7 @@
 
 ## 🌐 在线体验
 
-🚀 **点击即玩**：[https://huangq-dev.github.io/fold-or-raise/](https://huangq-dev.github.io/fold-or-raise/)[cite: 2]
+🚀 **点击即玩**：[https://huangq-dev.github.io/fold-or-raise/](https://huangq-dev.github.io/fold-or-raise/)
 *(100% 纯前端运行，无服务器，物理级隐私安全，完美适配 PC 与手机端)*
 
 ---
@@ -21,9 +21,9 @@
 
 本项目前期采用 **敏捷进化 (Agile Evolution)** 模式开发。当前 1.0 (Proof of Concept) 版本严格卡死在德州扑克实战中最典型的**极简硬核场景**：
 
-*   **筹码深度 (Stack Depth)**：限定在 **10BB - 25BB** 的短筹码 (Short Stack) 锦标赛中后期场景。此时无翻牌后复杂博弈空间，决策模型收敛为纯粹的 **Push or Fold (全下或弃牌)**[cite: 1]。
-*   **局势状态 (Action)**：默认模拟前面位置玩家全部弃牌 (**Unopened Pot**)，由当前玩家面临开局决策[cite: 1]。
-*   **维度联动**：支持 **3种筹码深度** (10BB/15BB/25BB) 与 **3个核心位置** (UTG前位、CO中位、BTN后位) 的实时策略矩阵与胜率动效联动[cite: 1]。
+*   **筹码深度 (Stack Depth)**：限定在 **10BB - 25BB** 的短筹码 (Short Stack) 锦标赛中后期场景。此时无翻牌后复杂博弈空间，决策模型收敛为纯粹的 **Push or Fold (全下或弃牌)**。
+*   **局势状态 (Action)**：默认模拟前面位置玩家全部弃牌 (**Unopened Pot**)，由当前玩家面临开局决策。
+*   **维度联动**：支持 **3种筹码深度** (10BB/15BB/25BB) 与 **3个核心位置** (UTG前位、CO中位、BTN后位) 的实时策略矩阵与胜率动效联动。
 
 ---
 
@@ -41,7 +41,7 @@
 
 我们坚持**工具理性**与**渐进式演进**：
 
-- [x] **Phase 1: 概念验证 (POC)** — 跑通 13x13 矩阵渲染、双语切换、筹码与位置控制栏、以及 Mock 动态权重策略切换。[cite: 1]（当前阶段）
+- [x] **Phase 1: 概念验证 (POC)** — 跑通 13x13 矩阵渲染、双语切换、筹码与位置控制栏、以及 Mock 动态权重策略切换。（当前阶段）
 - [ ] **Phase 2: Java 算力工厂接入** — 编写 Java 多线程离线模拟脚本，通过百亿次蒙特卡洛 (Monte Carlo) 模拟生成高维策略矩阵 JSON 秘籍。
 - [ ] **Phase 3: 实时动态算力池** — 引入 Java WebFlux 异步架构，支持动态输入场上玩家人数与任意两张手牌的实时胜率流式响应。
 
